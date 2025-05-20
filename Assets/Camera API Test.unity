@@ -3916,7 +3916,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: edae8c72a4d4a5c4e92f9d664fd884d3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8167,6 +8167,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   webcamManager: {fileID: 1667971117}
   quadRenderer: {fileID: 676227249}
+  textureName: _MainTex
 --- !u!4 &1524928226
 Transform:
   m_ObjectHideFlags: 0
